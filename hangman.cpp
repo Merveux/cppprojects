@@ -15,7 +15,7 @@ int main() {
         "apple", "teacher", "computer",
         "school", "programming", "keyboard",
         "internet", "science", "football",
-        "friend"
+        "friend" 
     };
 
     int numberOfWords = 10;
